@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+.container{
+    max-width: 1450px;
+    background-color: rgb(73, 67, 67);
+    resize: horizontal;
+}
+#app{
+    background-color: rgb(63, 83, 83);
+    text-align: center;
+    align-content: space-between;
+}
+#more{
+    display: none;
+}
+#mubutton{
+    width: 1000px;
+}
+#games{
+    text-align: center;
+}
+.games{
+    text-align: center;
+}
